@@ -9,5 +9,6 @@ void main(void)
         LATCbits.LATC0 = 1; // LED ON
     }
 }
+// Local vs Remote practice
 // Fetch practice
 // Pull practice
