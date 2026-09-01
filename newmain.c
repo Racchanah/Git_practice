@@ -6,6 +6,6 @@ void main(void)
 
     while(1)
     {
-        LATCbits.LATC0 = 1; // LED ON
+        LATCbits.LATC0 = 0; // LED OFF
     }
 }
