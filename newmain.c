@@ -9,3 +9,5 @@ void main(void)
         LATCbits.LATC0 = 1; // LED ON
     }
 }
+// Fetch practice
+// Pull practice
