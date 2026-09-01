@@ -10,5 +10,6 @@ void main(void)
     }
 }
 // Local vs Remote practice
+// Push practice
 // Fetch practice
 // Pull practice
