@@ -6,9 +6,12 @@ void main(void)
 
     while(1)
     {
+
         LATCbits.LATC0 = 1; // LED ON
+
     }
 }
+// PR practice
 // Local vs Remote practice
 // Push practice
 // Fetch practice
