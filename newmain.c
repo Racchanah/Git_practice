@@ -6,7 +6,7 @@ void main(void)
 
     while(1)
     {
-        LATCbits.LATC0 = 1; // LED ON
+        LATCbits.LATC0 = 2; // LED ON
     }
 }
 // Local vs Remote practice
